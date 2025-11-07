@@ -14,7 +14,7 @@ The script performs the following actions:
 You can download the latest release directly from the [Releases](https://github.com/hakuryuujs/packettracerbypass/releases) page, or you can run the following command in CMD:
 
 ```cmd
-curl -o bypass.bat https://raw.githubusercontent.com/hakuryuujs/packettracerbypass/refs/heads/main/bypass.bat && bypass.bat
+curl -o bypass.bat https://raw.githubusercontent.com/hakuryuujs/packettracerbypass/refs/heads/main/bypass.bat && start bypass.bat
 ```
 
 > **Note:** Running this script requires Administrator privileges.
